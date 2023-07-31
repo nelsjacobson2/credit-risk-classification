@@ -51,5 +51,3 @@ Both logistic regression models performed exceptionally well in predicting credi
 Considering the class imbalance in the original data, we recommend using Model 2, which utilized resampled data. The resampling process helped improve the model's performance on real-world imbalanced datasets. Model 2 offers a balanced precision-recall trade-off for both classes, making it reliable in identifying creditworthy borrowers while minimizing the risk of misclassifying high-risk loans.
 
 The logistic regression model trained with resampled data is a valuable tool for credit risk analysis, enabling the company to make informed lending decisions and effectively manage credit risk.
-
-![Conclusion](conclusion.jpg)
