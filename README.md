@@ -1,7 +1,5 @@
 # Credit Risk Analysis with Logistic Regression
 
-![Credit Risk](credit_risk.jpg)
-
 ## Background
 
 In this data science project, we conducted a credit risk analysis using logistic regression. The dataset used was historical lending activity data from a peer-to-peer lending services company. The goal was to build a machine learning model that could identify the creditworthiness of borrowers based on financial information.
